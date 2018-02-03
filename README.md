@@ -7,6 +7,7 @@ Here we'll all try to push our analyses, explanations, and code related to our w
 ## Tools
 
 I imagine for the most part we'll use Python's standard data analysis libraries:
+
 |  Tools  |  Links  | Uses |
 |---------|---------|------|
 | NumPy   | [**Link**](http://www.numpy.org/) | Standard math library, basis for most other Py libs |
